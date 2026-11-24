@@ -1,0 +1,6 @@
+{
+  "name": "CareDose",
+  "description": "Zero-mandatory-cost offline-first medication reminder and guardian alert system with cryptographic pairing, 48-hour silence escalation, local Bluetooth/LAN sync, and accessibility.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
